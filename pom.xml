@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>article1</module>
+        <module>article3</module>
     </modules>
 
 
