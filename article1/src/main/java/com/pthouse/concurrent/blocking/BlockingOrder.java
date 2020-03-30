@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * 阻塞
  *
- * @author T-House Boss
+ * @author pthouse boss
  * @date 2020/3/26 10:16
  */
 public class BlockingOrder {
