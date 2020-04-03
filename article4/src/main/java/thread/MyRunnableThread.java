@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @date 2020/3/26 17:08
  */
 public class MyRunnableThread implements Runnable {
-    private AtomicInteger count = new AtomicInteger();
+    private volatile AtomicInteger count = new AtomicInteger();
 
     @Override
     public void run() {
